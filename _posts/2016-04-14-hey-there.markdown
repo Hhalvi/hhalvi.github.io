@@ -1,6 +1,0 @@
----
-published: true
-title: Hey there.!
-layout: post
----
-Hi , I am **Harsha Halvi** welcome to my blog where i try to write a few stuff that take my whim or fancy. I am a hardcore ranter :P Thanks for the visit ;)
