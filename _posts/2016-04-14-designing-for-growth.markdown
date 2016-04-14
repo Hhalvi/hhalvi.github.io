@@ -2,6 +2,8 @@
 published: true
 title: Designing for growth
 layout: post
+tags: [Growth]
+categories: [Growth]
 ---
 Whenever someone asks me as to how X took off i say more often than not that the founders or someone on the initial team made them take off. Because that is how it is , yes today people hire *growth hackers* and the like but still. These guys come in at a very later stage typically when they are focusing on multiplying 10 folds when the market is saturating. Here is my  hand rules that i tend to follow most of the time.
 
