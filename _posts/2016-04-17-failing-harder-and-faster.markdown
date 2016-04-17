@@ -11,4 +11,6 @@ Ask any startupper and (s)he will tell you failing was not the hardest part ; ge
 
 Failing is a ... **Process** Give it some room :
 
-Failure much like anything else is a process or a phenomenon.I want to write a blog post and a random process inside my head tries to be the bad (or good) guy and asks what if people don't read it , i want to write a new app and here we go yet again What if people don't use it. **What if** is a strong word to ask ; yet you take certain things for granted not that its not important to ask it very much is. And failure is very similar  
+Failure much like anything else is a process or a phenomenon.I want to write a blog post and a random process inside my head tries to be the bad (or good) guy and asks what if people don't read it , i want to write a new app and here we go yet again What if people don't use it. **What if** is a strong word to ask ; yet you take certain things for granted not that its not important to ask it very much is. And failure is very similar , its part of a process or sometimes the whole process. Whats the difference between a **Mistake** and a **Failure**.? The difference is apparent yet so many people use them interchangeably.
+
+Failing has its advantages :
