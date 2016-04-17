@@ -2,6 +2,8 @@
 published: true
 title: And it moves on 
 layout: post
+tags: [Random, Life, Learnings]
+categories: [Randmom]
 ---
 Everything moves on  every opportunity ,  friends , mentors , moments and most of them can’t be gotten back. Sometimes we are scared to move on , i know as i was ; heck i did not intend to write this whole piece here but did so anyway. Doing the same mistakes twice are certainly a luxury only a few people can afford or so i have been told the thing is i did them over and over again several times. When you are nearly completing 1/5th of your supposed time period not everything feels right , the clock is ticking it always does never knowing why.? Same is the case with me , i took too long to realize that i was thrown in with a lot of others with no purpose , with no ambition and certainly with no one to tell me anything about the same. But then that is not entirely true as time goes on you start to realize stuff that seemed like the most weird puzzles to you , some might even get tired of puzzles.
 
