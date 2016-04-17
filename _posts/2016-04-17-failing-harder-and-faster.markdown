@@ -1,0 +1,12 @@
+---
+published: true
+title: Failing harder and faster
+layout: post
+tags: [Random, Life, Learnings, Startups, ]
+categories: [Random]
+---
+**If i had to relive my life again i would do the same mistakes twice ; only faster** 
+Ask any startupper and (s)he will tell you failing was not the hardest part ; getting over it was. I am sometimes shit scared to fall into the similar conundrum yet i find myself being attracted to it all over again. After sometime you don't necessarily think of it as a good or bad omen ; it starts to become a usual motion when you are trying to start a startup or scaling it to new heights. 
+
+Failing is a ... **Process** Give it some room :
+Failure much like anything else is a process or a phenomenon. 
