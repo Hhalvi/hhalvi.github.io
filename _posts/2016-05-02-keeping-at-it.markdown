@@ -1,6 +1,6 @@
 ---
 published: true
-title: Keeping at it ..!
+title: Keeping at it
 layout: post
 ---
 You walk in thinking about how to convey the deal with a large org fails (This was something that was life changing for you and your company or so you told them). Your CTO looks up puzzled , your designer thinks everything is well especially since they haven't slept for 4 nights straight , your developers look into you they are nothing less than solders who have quashed bugs in your product day in and out backhandedly. 
